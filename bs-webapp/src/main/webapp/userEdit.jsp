@@ -17,7 +17,7 @@
 <div id="forms" class="mt10">
     <div class="box">
         <div class="box_border">
-            <div class="box_top"><b class="pl15">表单</b></div>
+            <div class="box_top"><b class="pl15">表单1</b></div>
             <div class="box_center">
                 <form action="<c:url value="/user/save.do"/>" class="jqtransform" method="post">
                     <table class="form_table pt15 pb15" width="100%" border="0" cellpadding="0" cellspacing="0">
